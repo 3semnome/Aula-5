@@ -1,4 +1,6 @@
-Triângulo $A=\frac{b.h}{2}$ 
+Triângulo 
+
+$A=\frac{b.h}{2}$ 
 
 A:área
 
@@ -35,3 +37,9 @@ Trapézio $A=\frac{(B+b).h}{2}$
 círculo $A\pi.r²$
 
 A:área
+
+
+FÓRMULA DE BHASKARA 
+equação de segundo grau 
+ac²+bx+c=0
+fórmula de Bhaskara 
