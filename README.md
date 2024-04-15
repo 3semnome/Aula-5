@@ -40,7 +40,11 @@ A:área
 
 
 FÓRMULA DE BHASKARA 
+
 equação de segundo grau 
+
 ac²+bx+c=0
+
 fórmula de Bhaskara 
-+b±[/sqrt b² -4ac] [/frac 2 ]
+
+[+b±[/sqrt b² -4ac] [/frac 2 ]]
