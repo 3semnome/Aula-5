@@ -4,9 +4,9 @@ $A=\frac{b.h}{2}$
 
 A:área
 
-B:base
+b:base
 
-H:altura
+h:altura
 
 Quadrado $A=L²$
 
@@ -43,3 +43,4 @@ FÓRMULA DE BHASKARA
 equação de segundo grau 
 ac²+bx+c=0
 fórmula de Bhaskara 
++b±[/sqrt b² -4ac] [/frac 2 ]
